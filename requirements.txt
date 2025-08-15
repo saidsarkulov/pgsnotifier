@@ -1,0 +1,6 @@
+requests
+python-telegram-bot
+schedule
+matplotlib
+pandas
+python-dotenv
